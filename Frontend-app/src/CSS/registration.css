@@ -1,0 +1,75 @@
+.registration {
+  padding: 15px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  line-height: 19px;
+  margin-top: 20px;
+}
+
+.register-header {
+  font-family: fantasy;
+  font-size: 30px;
+  margin: 2px 0 20px 0;
+  text-align: center;
+}
+
+.body-section {
+
+  display: block;
+  border-radius: 4px;
+  border: 1px #ddd solid;
+  width: fit-content;
+  padding: 15px;
+  margin: auto;
+
+}
+
+.error {
+  padding: 0;
+  margin: 0;
+  color: red;
+  font-size: 11px;
+  display: none;
+}
+
+.error-header{
+  text-align: center;
+  color: red;
+}
+
+.register-form{
+  width: 700px;
+}
+
+.form-label{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+}
+
+.submit-btn{
+  text-align: center;
+  margin: 20px 0 15px 0;
+}
+
+
+.container-fluid{
+  padding-left: 0;
+  text-align: center;
+  
+}
+
+.reg-btn{
+  width: 170px;
+  font-size: 17px;
+}
+
+.navbar-brand{
+  font-size: 15px;
+  color: black;
+  padding-left: 30px;
+
+}
+
+.col{
+  padding-bottom: 20px;
+}
